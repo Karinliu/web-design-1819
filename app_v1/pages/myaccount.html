@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Transavia</title>
+    <link rel="stylesheet" href="../src/css/styles.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#main" accesskey="h">Main</a></li>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#">Plan en boek</a></li>
+                <li><a href="#">Beheer je boeking</a></li>
+                <li><a href="#">Service</a></li>
+                <li><a href="#">Mijn account</a></li>
+                <li><a href="#">Menu</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <a id="main" accesskey="l" aria-label="terug naar navigatie, windows is alt+shift+l" href="#list">Navigatie</a>
+        <section class="main">
+            <article>
+                <h2>Mijn gegevens</h2>
+                <form action="index.html" id="form" class="validate" name="myForm">
+                    <div class="nowidth">
+                        <legend>Geslacht </legend>
+                        <label for="woman">Vrouw</label>
+                        <input type="radio" id="woman" name="gender" value="woman">
+                        <label for="man">Man</label>
+                        <input type="radio" id="man" name="gender" value="man">
+                    </div>
+                    <div>
+                        <label for="full-name">Voornaam</label>
+                    <input type="text" name="full-name" id="full-name" placeholder="Voornaam" required />
+                    <label for="last-name">Achternaam</label>
+                    <input type="text" name="last-name" id="last-name" placeholder="Achternaam" required />
+                    <label for="email-input">Email</label>
+                    <input type="email" name="email-input" id="email-input" placeholder="example@hotmail.com" required />
+                    <label for="mobile">Mobiel telefoonnummer</label>
+                    <input type="number" name="mobile" id="mobile" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required />
+                    </div>
+                    <button aria-label="boink boink, button is focused">submit</button>
+                </form>
+            </article>
+        </section>
+    </main>
+    <script src="../src/js/index.js"></script>
+</body>
+
+</html>
