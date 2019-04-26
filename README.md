@@ -103,6 +103,8 @@ For the last testing, the feedback points have been adjusted. During testing she
 • Use loud and excessive sounds for feedback. <br>
 • Some random audio on page? 
 
+<img width="1280" alt="Screenshot 2019-04-26 10 23 43" src="https://user-images.githubusercontent.com/32538678/56793942-73500b80-680d-11e9-9fdc-25782b6bf261.png">
+
 
 ### Principles of User Interface Design
 
