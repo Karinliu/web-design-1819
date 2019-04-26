@@ -75,8 +75,6 @@ Don't think I have to make something accessible but think the website must be ac
 • IFrames -> not done!
 
 ### User scenario
-Larissa, 24 years 
-
 Larissa, 24 years old, from Texel. She is a Dutch cyclist and track cyclist who is active in para-cycling. She has a vision impairment, which means she can only see contrasts and the difference between dark and light.
 
 Like everyone else on the web, Larissa is using the internet. Instead looking at the screen, she is using a braille and a screen reader. The only problem by using this equipment is that not every website is accessible. That is also the reason why Larissa gets lost in the web or she doesn't know what to do.
