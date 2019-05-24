@@ -187,7 +187,7 @@ For my application I tested with two people: <br>
 <img width="914" alt="Screenshot 2019-05-23 21 54 36" src="https://user-images.githubusercontent.com/32538678/58282265-84a51d00-7da5-11e9-9082-7f83c244417d.png">
 
 ##### Tim F.
-• Kilo should be added.
+• Kilo should be added. <br>
 • Typing to fast, the application breaks (screenreader). <br>
 • accidentally hit the enter button.<br>
 
