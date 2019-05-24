@@ -123,8 +123,8 @@ By using sounds what we all know, it ensures that the user does need to learn ho
 Larissa is visually impaired, since I build this whole prototype for her and not for anyone else I made some research and asked her some questions. 
 
 By building this application the deskresearch have been taken into consideration. Also Larissa has told us something that she would really like to have in a website: <br>
-• It would be nice if the website gives feedback to me.
-• How handy it would be when a shortcut is introduced for the navigation.
+• It would be nice if the website gives feedback to me. <br>
+• How handy it would be when a shortcut is introduced for the navigation. <br>
 
 ##### Ignore conventions
 Because you are creating an application for one user, I started by ignoring some conventions how to write semantic html and css.
@@ -149,9 +149,9 @@ For my appliaction I made a few changes.
 ##### Study situation
 As previously told Larissa is visually impaired, since I build this whole prototype for her, before I could make the changes I should take a few points into consideration: <br>
 
-• It would be nice if the website gives feedback to me.
-• How handy it would be when a shortcut is introduced for the navigation.
-• Larissa mostly uses touch and hearing for performing actions.
+• It would be nice if the website gives feedback to me. <br>
+• How handy it would be when a shortcut is introduced for the navigation. <br>
+• Larissa mostly uses touch and hearing for performing actions. <br>
 
 
 #### Ignore conventions
