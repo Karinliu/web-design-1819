@@ -188,13 +188,13 @@ For my application I tested with two people: <br>
 
 ##### Tim F.
 • Kilo should be added.
-• Typing to fast, the application breaks (screenreader).
-• accidentally hit the enter button.
+• Typing to fast, the application breaks (screenreader). <br>
+• accidentally hit the enter button.<br>
 
 By testing the application, they gave me a few feedback points: <br>
 • Month only can filled in with numbers. Maybe I should also give the option name. <br>
 • By filling in the inputs, they accidentally hit the enter button. <br>
-• Confused by filling in the weight. Kilo? 
+• Confused by filling in the weight. Kilo? <br>
 
 
 The biggest problem I had by testing, was that all users were typing very fast, so the application breaks.
